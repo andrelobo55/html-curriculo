@@ -1,0 +1,14 @@
+body {
+    font: normal 13pt Arial;
+    background-color: thistle;
+}
+
+img#idAndre {
+    border-radius: 100px;
+    box-shadow: 3pt 3pt 3pt black;
+}
+
+footer {
+    text-align: center;
+}
+
